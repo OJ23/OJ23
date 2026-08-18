@@ -26,6 +26,13 @@ QA Engineer | AI Automation | Web Testing | Computer Engineer
 
 ## 🚀 Featured Projects
 
+### Stranded TD
+interactive web game made with js
+
+🔗 https://github.com/OJ23/stranded-td
+
+---
+
 ### Pomodoro TD
 Productivity application with authentication and Supabase.
 
@@ -46,6 +53,7 @@ Interactive map application inspired by Gotham City.
 Weather forecasting app using React and APIs.
 
 🔗 https://github.com/OJ23/simpleweatherapp
+
 
 ## 📫 Contact
 

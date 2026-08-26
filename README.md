@@ -1,16 +1,23 @@
 Hi, I'm Gordon 👋
 
-I'm zealous about building reliable software through manual and automated testing while continuously improving my development skills. I've spent several years learning frontend development with JavaScript, TypeScript, and React, which helps me better understand application architecture and communicate effectively with developers.
+I'm passionate about building **reliable, well-tested, and user-focused software**, combining hands-on experience in **Frontend Development and Quality Assurance**.
 
-On my GitHub, you'll find:
+I build modern web applications using **JavaScript, TypeScript, React, and modern frontend tools**, while applying a QA mindset throughout the development process—from understanding requirements and testing UI behavior to identifying edge cases and automating repetitive tests.
 
-QA-related projects, test documentation, and testing experiments
-Frontend projects built with modern web technologies
-UI implementation challenges and coding exercises
-Clear project documentation and setup instructions
+My development background helps me understand how applications are built, while my QA experience helps me think critically about **how they can break and how they can be improved**.
+
+### On my GitHub, you'll find:
+
+* ⚛️ **Frontend projects** built with React, JavaScript, TypeScript, and modern web technologies
+* 🧪 **QA projects** covering manual testing, test cases, bug reporting, and test documentation
+* 🤖 **Test automation and AI-assisted testing experiments**
+* 🎨 **UI implementation challenges and interactive web projects**
+* 📚 Clear documentation covering project architecture, testing, and setup
+
+**Frontend Developer | QA Engineer | Test Automation | React & TypeScript | Computer Engineer**
 
 
-QA Engineer | AI Automation | Web Testing | Computer Engineer
+QA Engineer | Front-end Developer | Computer Engineer AI Automation | Web Testing | Computer Engineer
 
 
 ## 🔧 Tech Stack
@@ -30,6 +37,13 @@ QA Engineer | AI Automation | Web Testing | Computer Engineer
 interactive web game made with js
 
 🔗 https://github.com/OJ23/stranded-td
+
+---
+
+### Y-C
+Restaurant Discovery web app with map enabled
+
+🔗 https://github.com/OJ23/Y-C
 
 ---
 

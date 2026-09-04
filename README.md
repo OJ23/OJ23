@@ -1,10 +1,10 @@
 Hi, I'm Gordon 👋
 
-I'm passionate about building **reliable, well-tested, and user-focused software**, combining hands-on experience in **Frontend Development and Quality Assurance**.
+I am obsessed with creating reliable, well-tested, and user-focused software, combining hands-on experience in Frontend Development and Quality Assurance.
 
 I build modern web applications using **JavaScript, TypeScript, React, and modern frontend tools**, while applying a QA mindset throughout the development process—from understanding requirements and testing UI behavior to identifying edge cases and automating repetitive tests.
 
-My development background helps me understand how applications are built, while my QA experience helps me think critically about **how they can break and how they can be improved**.
+My development background helps me understand how applications are built, while my QA experience helps me think critically about how they can break and how they can be improved.
 
 ### On my GitHub, you'll find:
 

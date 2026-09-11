@@ -27,9 +27,8 @@ QA Engineer | Front-end Developer | Computer Engineer AI Automation | Web Testin
 - JavaScript
 - React
 - Node.js
-- SQL
+- Mongo
 - Git
-- Playwright (Learning)
 
 ## 🚀 Featured Projects
 
